@@ -1,11 +1,11 @@
 {
   "name": "camel-keys",
   "description": "Convert JSON keys to camelcase from hyphens",
-  "dependencies": {    
-    "lodash": "^4.17.4"
+  "dependencies": {
+    "lodash": "^4.17.13"
   },
   "devDependencies": {
-    "ava": "^0.20.0"
+    "ava": "^2.2.0"
   },
   "repository": {
     "url": "https://github.com/fahdi/camel-keys",
@@ -17,5 +17,5 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Fahad Murtaza <info@fahdmurtaza.com>",
-  "license": "MIT"
+  "license": "MIT",
 }
